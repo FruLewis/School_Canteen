@@ -1,5 +1,5 @@
 form{
-    background-color: ccyan;
+    background-color: cyan;
     width: 300px;
     padding: 10px;
     margin: 10px;
@@ -19,5 +19,6 @@ form button{
     padding: 10px;
     border: none;
     border-radius: 5px;
-    width: 100%;
+    width: 50%;
+    position: calc();
 }
